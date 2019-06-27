@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 title: Thomas van der Zwaard
+name: Thomas van der Zwaard
 description: Homepage
 plugins:
   - jekyll-relative-links
@@ -15,4 +16,9 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-  - cv.md
+  
+social-network-links:
+  rss: true
+  email: "t.vanderzwaard@tudelft.nl"
+  github: thomasvdzwaard
+  linkedin: thomasvdzwaard
