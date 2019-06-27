@@ -1,4 +1,4 @@
-# thomasvdzwaard.github.io
+# Thomas van der Zwaard
 Personal website
 
 ## Contains
