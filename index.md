@@ -2,4 +2,4 @@
 layout: default
 ---
 
-Under construction.
+[Navigation test](README.md)
