@@ -1,3 +1,5 @@
+[Home](index.md)
+
 # Thomas van der Zwaard
 Personal website
 
