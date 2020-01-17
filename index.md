@@ -1,3 +1,8 @@
+---
+layout: page
+title: Home
+---
+
 <img src="./pasfoto.jpg" width="200" height="200">
 
 * [Research Interests](researchinterests.md)
