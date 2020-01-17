@@ -1,5 +1,4 @@
----
-layout: default
----
-
-[Navigation test](README.md)
+* [Research Interests](researchinterests.md)
+* [Publications](publications.md)
+* [CV](cv.md)
+* [Contact Information](contactinformation.md)
