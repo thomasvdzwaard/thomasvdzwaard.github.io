@@ -1,24 +1,8 @@
-# Site wide configuration
-
-title: Homepage of Thomas van der Zwaard
-locale: en
-logo: # filename of a logo image that has been placed into your images directory
-
-# Enter the following platform usernames if you would like for them to appear on your site.
-owner:
-  name: Thomas van der Zwaard
-  avatar: pasfoto.jpg
-  bio: "This is the homepage of Thomas van der Zwaard."
-  email: t.vanderzwaard@tudelft.nl
-  # Do not include the @ symbol in your Twitter username
-  linkedin: thomasvdzwaard #username
-  github: thomasvdzwaard
-
-
 theme: jekyll-theme-cayman
-#title: Thomas van der Zwaard
+title: Thomas van der Zwaard
 name: Thomas van der Zwaard
 description: Homepage
+locale: en
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -39,3 +23,13 @@ social-network-links:
   email: "t.vanderzwaard@tudelft.nl"
   github: thomasvdzwaard
   linkedin: thomasvdzwaard
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Thomas van der Zwaard
+  avatar: pasfoto.jpg
+  bio: "This is the homepage of Thomas van der Zwaard."
+  email: t.vanderzwaard@tudelft.nl
+  # Do not include the @ symbol in your Twitter username
+  linkedin: thomasvdzwaard #username
+  github: thomasvdzwaard
