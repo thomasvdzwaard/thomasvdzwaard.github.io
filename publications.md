@@ -3,7 +3,7 @@
 # Publications
 
 ## 2020
-* ["A Computational Approach to Hedging Credit Valuation Adjustment in a Jump-Di?usion Setting"](https://arxiv.org/pdf/2005.10504.pdf) T. van der Zwaard, L.A. Grzelak, C.W. Oosterlee ***Submitted***
+* ["A Computational Approach to Hedging Credit Valuation Adjustment in a Jump-Diffusion Setting"](https://arxiv.org/pdf/2005.10504.pdf) T. van der Zwaard, L.A. Grzelak, C.W. Oosterlee *Submitted*
 
 ## 2016
 * Thesis MSc Applied Mathematics, ["The heston model with Term Strucutre: Option Pricing and Calibration"](http://resolver.tudelft.nl/uuid:eb4a8dd4-e024-48d7-9784-4bbecbebe1f1).
