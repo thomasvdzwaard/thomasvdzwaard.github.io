@@ -9,8 +9,8 @@
    * *Pricing Model Validation*, Rabobank.
 
 ### PhD Candidate
-   * 2018 - present,
-   * *Delft Institute of Applied Mathematics*, Delft University of Technology.  
+   * 2018 - 2020, *Delft Institute of Applied Mathematics*, Delft University of Technology,
+   * 2021 - present, *Mathematical Institute*, Utrecht University.
 
  
 ## Education
