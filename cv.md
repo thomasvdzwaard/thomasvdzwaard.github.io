@@ -4,7 +4,7 @@
 
 ## Work Experience
 
-### Quantiative Analyst
+### Senior Quantiative Analyst
    * 2016 - present,
    * *Pricing Model Validation*, Rabobank.
 
