@@ -2,6 +2,9 @@
 
 # Publications
 
+## 2022
+* ["Relevance of Wrong-Way Risk in Funding Valuation Adjustments"](http://arxiv.org/abs/2204.02680) T. van der Zwaard, L.A. Grzelak, C.W. Oosterlee ***Submitted***
+
 ## 2021
 * ["A computational approach to hedging Credit Valuation Adjustment in a jump-diffusion setting"](https://doi.org/10.1016/j.amc.2020.125671) T. van der Zwaard, L.A. Grzelak, C.W. Oosterlee *Applied Mathematics and Computation, 391, February 2021*,
 [Preprint on arXiv](https://arxiv.org/abs/2005.10504)
