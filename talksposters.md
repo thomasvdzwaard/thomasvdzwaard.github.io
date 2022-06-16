@@ -2,7 +2,7 @@
 
 # Talks
 
-Upcoming: [Minisymposium at ICCF2022](https://iccf2021.uni-wuppertal.de/de/program/minisymposia/ms01-aspects-of-xva-and-computations.html), June 2022.
+[Minisymposium 'Aspects of XVA and Computations' at ICCF2022](https://iccf2021.uni-wuppertal.de/de/program/minisymposia/ms01-aspects-of-xva-and-computations.html), June 2022.
 
 # Posters  
 
