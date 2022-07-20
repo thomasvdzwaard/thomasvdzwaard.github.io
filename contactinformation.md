@@ -6,4 +6,4 @@
 * [Google Scholar](https://scholar.google.nl/citations?user=C21v-QgAAAAJ&hl=nl)
 * [ORCID](https://orcid.org/0000-0002-4177-7110)
 * [ResearchGate](https://www.researchgate.net/profile/Thomas-Van-Der-Zwaard)
-* [GitHub](https://github.com/thomasvdzwaard)
+<!---* [GitHub](https://github.com/thomasvdzwaard)-->
