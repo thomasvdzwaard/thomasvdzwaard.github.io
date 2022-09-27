@@ -3,6 +3,8 @@
 # Publications
 
 ## 2022
+* ["Efficient Wrong-Way Risk Modelling for Funding Valuation Adjustments"](https://arxiv.org/abs/2209.12222) T. van der Zwaard, L.A. Grzelak, C.W. Oosterlee *Submitted, June 2022*
+
 * ["Relevance of Wrong-Way Risk in Funding Valuation Adjustments"](https://doi.org/10.1016/j.frl.2022.103091) T. van der Zwaard, L.A. Grzelak, C.W. Oosterlee *Finance Research Letters, June 2022*,
 [Preprint on arXiv](http://arxiv.org/abs/2204.02680)
 
