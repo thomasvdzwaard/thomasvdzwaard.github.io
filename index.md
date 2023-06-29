@@ -3,5 +3,5 @@
 [Research Interests](researchinterests.md)  
 [Publications](publications.md)  
 [Talks and Posters](talksposters.md)  
-[CV](./Content/CV/CV202306.pdf) 
+[CV](./Content/CV/CV202306.pdf)  
 [Contact Information](contactinformation.md)  
