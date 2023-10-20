@@ -1,3 +1,5 @@
+<a id="top"></a>  
+
 <img src="./Content/Home/photo.jpg" width="200" height="200">
 
 <!---
@@ -10,9 +12,7 @@ Link to separate pages:
 ---> 
 
 
-[[_TOC_]]
-
-
+# Contents
 [Research Interests](#research-interests)  
 [Publications](#publications)  
 [Talks and Posters](#talks-and-posters)  
@@ -28,6 +28,8 @@ Link to separate pages:
 * Mathematical Finance
 * Valuation Adjustments
 * Derivative Pricing
+
+[To top](#top)  
 
 
 
@@ -52,6 +54,8 @@ Link to separate pages:
 * Thesis BSc Applied Mathematics, ["Pricing Bitcoin options under jump-diffusion processes"](http://resolver.tudelft.nl/uuid:c9e40f25-738e-4c69-a747-e10de372dc42).
 ---> 
 
+[To top](#top)  
+
 
 
 
@@ -70,6 +74,8 @@ Link to separate pages:
 ## Posters  
 
 * Poster ['Valuation adjustments and the hedging thereof in practice'](./Content/Posters/PosterWinterSchool202001.pdf), [19th Winter School of Financial Mathematics](https://staff.fnwi.uva.nl/p.j.c.spreij/winterschool/19winterschool.html), Lunteren, the Netherlands, January 2020.
+
+[To top](#top)  
 
 
 
@@ -102,6 +108,9 @@ Link to separate pages:
 <!--- * GPA: 7.0,--->
    * Thesis: ["Pricing Bitcoin options under jump-diffusion processes"](http://resolver.tudelft.nl/uuid:c9e40f25-738e-4c69-a747-e10de372dc42).
 
+[To top](#top)  
+
+
 
 # Contact information
 * [Email](mailto:t.vanderzwaard@uu.nl)
@@ -110,3 +119,5 @@ Link to separate pages:
 * [ORCID](https://orcid.org/0000-0002-4177-7110)
 * [ResearchGate](https://www.researchgate.net/profile/Thomas-Van-Der-Zwaard)
 <!---* [GitHub](https://github.com/thomasvdzwaard)-->
+
+[To top](#top)  
