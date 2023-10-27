@@ -64,12 +64,19 @@ Link to separate pages:
 ## Upcoming talks
 
 * [TopQuants Autumn Event 2023](https://www.topquants.nl/autumn-event-2023/), Amsterdam, the Netherlands, November 2023.
+* [2nd Dutch Math Finance Afternoon](https://sites.google.com/view/adu-dmfa/home), Utrecht, the Netherlands, November 2023.
 * [21st Winter School of Financial Mathematics](https://staff.fnwi.uva.nl/a.khedher/winterschool/winterschool.html), Soesterberg, the Netherlands, January 2024.
 
 ## Past talks
 
 * ['Incorporating Smile in Valuation Adjustments Through the Mixture of Short-Rate Models'](./Content/Talks/TalkSIAM202306.pdf), minisymposium 'Interest Rate Models and Efficient Simulation in Modern Risk Management', SIAM Conference on Financial Mathematics and Engineering 2023 (FM23), Philadelphia, USA, June 2023.
 * ['Wrong-Way Risk in Funding Valuation Adjustments'](./Content/Talks/TalkICCF202206.pdf), minisymposium 'Aspects of XVA and Computations', International Conference on Computational Finance 2022 (ICCF2022), Wuppertal, Germany, June 2022.
+
+<!---
+* 'Efficient Wrong-Way Risk Modelling for Funding Valuation Adjustments', Rabobank internal seminar, online, November 2022.
+* 'Relevance of Wrong-Way Risk in Funding Valuation Adjustments', Rabobank internal seminar, online, October 2021.
+* 'A computational approach to hedging Credit Valuation Adjustment in a jump-diffusion setting', Rabobank internal seminar, online, November 2020.
+--->
 
 ## Posters  
 
