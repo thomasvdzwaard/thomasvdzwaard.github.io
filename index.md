@@ -59,7 +59,7 @@
 
 ## Past talks
 
-* 'Valuation Adjustments with an Affine-Diffusion-based Interest Rate Smile', [TopQuants Autumn Event 2023](https://www.topquants.nl/autumn-event-2023/), Amsterdam, the Netherlands, November 2023.
+* ['Valuation Adjustments with an Affine-Diffusion-based Interest Rate Smile'](./Content/Talks/TalkTopQuantsAutumn202311.pdf), [TopQuants Autumn Event 2023](https://www.topquants.nl/autumn-event-2023/), Amsterdam, the Netherlands, November 2023.
 * ['Incorporating Smile in Valuation Adjustments Through the Mixture of Short-Rate Models'](./Content/Talks/TalkSIAM202306.pdf), minisymposium 'Interest Rate Models and Efficient Simulation in Modern Risk Management', SIAM Conference on Financial Mathematics and Engineering 2023 (FM23), Philadelphia, USA, June 2023.
 * ['Wrong-Way Risk in Funding Valuation Adjustments'](./Content/Talks/TalkICCF202206.pdf), minisymposium 'Aspects of XVA and Computations', International Conference on Computational Finance 2022 (ICCF2022), Wuppertal, Germany, June 2022.
 
