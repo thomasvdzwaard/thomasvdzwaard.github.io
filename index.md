@@ -54,11 +54,11 @@
 
 ## Upcoming talks
 
-* ['Valuation Adjustments with an Affine-Diffusion-based Interest Rate Smile'](./Content/Talks/202311_DMFA.pdf), [2nd Dutch Math Finance Afternoon](https://sites.google.com/view/adu-dmfa/home), Utrecht, the Netherlands, November 2023.
 * [21st Winter School of Financial Mathematics](https://staff.fnwi.uva.nl/a.khedher/winterschool/winterschool.html), Soesterberg, the Netherlands, January 2024.
 
 ## Past talks
 
+* ['Valuation Adjustments with an Affine-Diffusion-based Interest Rate Smile'](./Content/Talks/202311_DMFA.pdf), [2nd Dutch Math Finance Afternoon](https://sites.google.com/view/adu-dmfa/home), Utrecht, the Netherlands, November 2023.
 * ['Valuation Adjustments with an Affine-Diffusion-based Interest Rate Smile'](./Content/Talks/202311_TopQuantsAutumn.pdf), [TopQuants Autumn Event 2023](https://www.topquants.nl/autumn-event-2023/), Amsterdam, the Netherlands, November 2023.
 * ['Incorporating Smile in Valuation Adjustments Through the Mixture of Short-Rate Models'](./Content/Talks/202306_SIAM.pdf), minisymposium 'Interest Rate Models and Efficient Simulation in Modern Risk Management', SIAM Conference on Financial Mathematics and Engineering 2023 (FM23), Philadelphia, USA, June 2023.
 * ['Wrong-Way Risk in Funding Valuation Adjustments'](./Content/Talks/202206_ICCF.pdf), minisymposium 'Aspects of XVA and Computations', International Conference on Computational Finance 2022 (ICCF2022), Wuppertal, Germany, June 2022.
