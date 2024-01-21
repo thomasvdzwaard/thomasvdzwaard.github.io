@@ -54,7 +54,7 @@
 
 ## Upcoming talks
 
-* [21st Winter School of Financial Mathematics](https://staff.fnwi.uva.nl/a.khedher/winterschool/winterschool.html), Soesterberg, the Netherlands, January 2024.
+* ['Valuation Adjustments with an Affine-Diffusion-based Interest Rate Smile'](./Content/Talks/202401_WinterSchool.pdf), [21st Winter School of Financial Mathematics](https://staff.fnwi.uva.nl/a.khedher/winterschool/winterschool.html), Soesterberg, the Netherlands, January 2024.
 
 ## Past talks
 
