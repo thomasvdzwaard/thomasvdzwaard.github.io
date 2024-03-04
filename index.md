@@ -54,8 +54,10 @@
 
 ## Upcoming talks
 
-<!---
 * [International Conference on Computational Finance 2024 (ICCF24)](https://www.iccf24.nl/), Amsterdam, the Netherlands, April 2024.
+
+<!---
+* [Conference title](URL), City, Country, Month yyyy.
 ---> 
 
 ## Past talks
