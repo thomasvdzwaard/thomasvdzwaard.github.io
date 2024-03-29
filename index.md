@@ -26,6 +26,9 @@
 
 # Publications
 
+## 2024
+* ["On the Hull-White model with volatility smile for Valuation Adjustments"](http://arxiv.org/abs/2403.14841) T. van der Zwaard, L.A. Grzelak, C.W. Oosterlee *Submitted, March 2024*
+
 ## 2023
 * ["Efficient Wrong-Way Risk Modelling for Funding Valuation Adjustments"](https://arxiv.org/abs/2209.12222) T. van der Zwaard, L.A. Grzelak, C.W. Oosterlee *Submitted, March 2023*
 
