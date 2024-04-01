@@ -87,7 +87,7 @@
 
 # CV
 
-[Full CV](./Content/CV/CV202306.pdf)  
+[Full CV](./Content/CV/CV202404.pdf)  
 
 ## Work Experience
 
