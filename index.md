@@ -28,7 +28,7 @@
 
 ## 2024
 * ["On the Hull-White model with volatility smile for Valuation Adjustments"](http://arxiv.org/abs/2403.14841) T. van der Zwaard, L.A. Grzelak, C.W. Oosterlee *Submitted, March 2024*
-* ["Efficient Wrong-Way Risk Modelling for Funding Valuation Adjustments"](https://www.worldscientific.com/doi/10.1142/S0219024924500109) T. van der Zwaard, L.A. Grzelak, C.W. Oosterlee *Accepted for publication in International Journal of Theoretical and Applied Finance, May 2024*, [Preprint on arXiv](https://arxiv.org/abs/2209.12222)
+* ["Efficient Wrong-Way Risk Modelling for Funding Valuation Adjustments"](https://www.worldscientific.com/doi/10.1142/S0219024924500109) T. van der Zwaard, L.A. Grzelak, C.W. Oosterlee *International Journal of Theoretical and Applied Finance, July 2024*, [Preprint on arXiv](https://arxiv.org/abs/2209.12222)
 
 ## 2022
 * ["Relevance of Wrong-Way Risk in Funding Valuation Adjustments"](https://doi.org/10.1016/j.frl.2022.103091) T. van der Zwaard, L.A. Grzelak, C.W. Oosterlee *Finance Research Letters, October 2022*,
@@ -95,7 +95,7 @@
 
 ### PhD Candidate
    * 2018 - 2020, *Delft Institute of Applied Mathematics*, Delft University of Technology,
-   * 2021 - present, *Mathematical Institute*, Utrecht University.
+   * 2021 - 2024, *Mathematical Institute*, Utrecht University.
 
  
 ## Education
