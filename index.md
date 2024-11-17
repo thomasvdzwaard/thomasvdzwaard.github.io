@@ -94,12 +94,12 @@
  
 ## Education
 
-<!-- ### PhD Applied Mathematics
+### PhD Applied Mathematics
    * 2018 - 2020, *Delft Institute of Applied Mathematics*, Delft University of Technology,
    * 2021 - 2024, *Mathematical Institute*, Utrecht University.
    * Promotor: Prof. dr. ir. C.W. Oosterlee.
    * Copromotor: Dr. ir. L.A. Grzelak.
-   * Thesis: ["Enhanced Modelling of Valuation Adjustments for Comprehensive Financial Risk Management"](https://doi.org/10.33540/2557) -->
+   * Thesis: ["Enhanced Modelling of Valuation Adjustments for Comprehensive Financial Risk Management"](https://doi.org/10.33540/2557)
 
 ### MSc Applied Mathematics
    * 2014 - 2016,
