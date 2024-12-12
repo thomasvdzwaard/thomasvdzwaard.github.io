@@ -86,11 +86,12 @@
    * 2016 - present,
    * *Pricing Model Validation*, Rabobank.
 
+<!-- 
 ### PhD Candidate
    * 2018 - 2020, *Delft Institute of Applied Mathematics*, Delft University of Technology,
    * 2021 - 2024, *Mathematical Institute*, Utrecht University.
    * Thesis: ["Enhanced Modelling of Valuation Adjustments for Comprehensive Financial Risk Management"](https://doi.org/10.33540/2557)
-
+-->
  
 ## Education
 
