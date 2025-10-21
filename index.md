@@ -26,9 +26,11 @@
 
 # Publications
 
+## 2025
+* ["On the Hull-White model with volatility smile for Valuation Adjustments"](https://doi.org/10.1080/14697688.2025.2565270) T. van der Zwaard, L.A. Grzelak, C.W. Oosterlee *Quantitative Finance, October 2025*, [Preprint on arXiv](http://arxiv.org/abs/2403.14841)
+
 ## 2024
 * ["Enhanced Modelling of Valuation Adjustments for Comprehensive Financial Risk Management"](https://doi.org/10.33540/2557) T. van der Zwaard, PhD thesis, November 2024
-* ["On the Hull-White model with volatility smile for Valuation Adjustments"](http://arxiv.org/abs/2403.14841) T. van der Zwaard, L.A. Grzelak, C.W. Oosterlee *Submitted, March 2024*
 * ["Efficient Wrong-Way Risk Modelling for Funding Valuation Adjustments"](https://www.worldscientific.com/doi/10.1142/S0219024924500109) T. van der Zwaard, L.A. Grzelak, C.W. Oosterlee *International Journal of Theoretical and Applied Finance, 27(2), July 2024*, [Preprint on arXiv](https://arxiv.org/abs/2209.12222)
 
 ## 2022
@@ -82,9 +84,13 @@
 
 ## Work Experience
 
+### Manager Quants
+   * Jul 2025 - present,
+   * *Financial Markets & Treasury*, Model Risk Management Rabobank.
+
 ### Senior Quantitative Analyst
-   * 2016 - present,
-   * *Pricing Model Validation*, Rabobank.
+   * Oct 2016 - Jun 2025,
+   * *Pricing Model Validation*, Model Risk Management, Rabobank.
 
 <!-- 
 ### PhD Candidate
