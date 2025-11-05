@@ -27,7 +27,7 @@
 # Publications
 
 ## 2025
-* ["On the Hull-White model with volatility smile for Valuation Adjustments"](https://doi.org/10.1080/14697688.2025.2565270) T. van der Zwaard, L.A. Grzelak, C.W. Oosterlee *Quantitative Finance, October 2025*, [Preprint on arXiv](http://arxiv.org/abs/2403.14841)
+* ["On the Hull-White model with volatility smile for Valuation Adjustments"](https://doi.org/10.1080/14697688.2025.2565270) T. van der Zwaard, L.A. Grzelak, C.W. Oosterlee *Quantitative Finance, 25 (10), October 2025*, [Preprint on arXiv](http://arxiv.org/abs/2403.14841)
 
 ## 2024
 * ["Enhanced Modelling of Valuation Adjustments for Comprehensive Financial Risk Management"](https://doi.org/10.33540/2557) T. van der Zwaard, PhD thesis, November 2024
